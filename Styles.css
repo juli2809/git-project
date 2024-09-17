@@ -7,7 +7,7 @@ body{
     margin: 0;
 }
 .card{
-    background-color: black;
+    background-color:black;
     border-radius: 8px;
     width: 300px;
     overflow: hidden;
@@ -20,6 +20,7 @@ body{
 .card h1{
     margin: 15px 0 10px 0;
     font-size: 19px;
+    color:azure;
 }
 .card p{
     color: blueviolet;
