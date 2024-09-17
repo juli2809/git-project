@@ -27,7 +27,7 @@ body{
     font-size: 14px;
     padding: 0 15px 15px 15px;
 }
-.card button{
+.button{
     background-color: aqua;
     color: aquamarine;
     padding: 10px 20px;
@@ -36,6 +36,6 @@ body{
     cursor: pointer;
     margin-bottom: 15px;
 }
-.card button:hover{
+.button:hover{
     background-color: #45A;
 }
